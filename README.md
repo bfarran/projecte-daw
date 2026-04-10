@@ -2,9 +2,9 @@
 Aplicació web desenvolupada com a projecte de 2n de DAW.
 
 ## Equip
-- Product Owner: El teu nom
-- Scrum Master: El teu nom
-- Developers: El teu nom
+- Product Owner: Biel Farran Serra
+- Scrum Master: Biel Farran Serra
+- Developers: Biel Farran Serra
 
 ## Tecnologies
 - Frontend: HTML / CSS / JS (o React/Vue)
